@@ -1,2 +1,2 @@
 # html-assignment
-my furst html assignment
+my first html assignment
